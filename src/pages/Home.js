@@ -1,5 +1,6 @@
 import React from 'react';
 import logo from '../assets/img/Logo-600x274.png'
+import '../styles/components/pages/Home.css';
 
 const HomePage = (props) => {
     return (
@@ -9,7 +10,7 @@ const HomePage = (props) => {
                 <p>Somos una empresa familiar ubicada en Gualeguaychú, Entre Ríos</p>
             </div>
             <div className="presentacionLogo">
-                <img src={logo} alt="Logo 600x274"/>
+                <img src={logo} alt="Logo 600x274" />
             </div>
         </main>
     );

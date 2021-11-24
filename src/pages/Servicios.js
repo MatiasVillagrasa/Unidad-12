@@ -3,6 +3,7 @@ import feteadora from '../assets/img/Feteadora400.png'
 import trozadora from '../assets/img/Trozadora400.png'
 import envasadora from '../assets/img/Envasadora400.png'
 import balanza from '../assets/img/Balanza400.png'
+import '../styles/components/pages/Servicios.css';
 
 const ServiciosPage = (props) => {
     return (
