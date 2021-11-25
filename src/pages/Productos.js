@@ -3,7 +3,7 @@ import '../styles/components/pages/Productos.css';
 
 const ProductosPage = (props) => {
     return (
-        <main>
+        <main className="mProductos">
             <h1>Productos</h1>
             <div className="tarjetas">
                 <div className="tarjeta">

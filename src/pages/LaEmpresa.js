@@ -3,7 +3,7 @@ import '../styles/components/pages/LaEmpresa.css';
 
 const LaEmpresaPage = (props) => {
     return (
-        <main>
+        <main className="mLaEmpresa">
             <h1>La Empresa</h1>
             <div className="tarjetas">
                 <div className="tarjeta">

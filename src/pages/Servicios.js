@@ -7,7 +7,7 @@ import '../styles/components/pages/Servicios.css';
 
 const ServiciosPage = (props) => {
     return (
-        <main>
+        <main className="mServicios">
             <h1>Servicios</h1>
             <div className="tarjetas">
                 <div className="tarjeta">

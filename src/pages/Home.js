@@ -4,7 +4,7 @@ import '../styles/components/pages/Home.css';
 
 const HomePage = (props) => {
     return (
-        <main>
+        <main className="mHome">
             <div className="presentacion">
                 <h1>WORKING S.R.L.</h1>
                 <p>Somos una empresa familiar ubicada en Gualeguaychú, Entre Ríos</p>
